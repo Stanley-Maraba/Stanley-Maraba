@@ -7,5 +7,3 @@
 
 ### Languages
 ![Stanley-Maraba language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Stanley-Maraba&theme=tokyonight&hide_border=true&langs_count=6&layout=compact)
-
--->
